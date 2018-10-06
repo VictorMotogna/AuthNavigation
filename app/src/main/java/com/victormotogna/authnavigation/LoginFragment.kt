@@ -21,5 +21,8 @@ class LoginFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         fragment_login_btn_signup.setOnClickListener(Navigation.createNavigateOnClickListener(R.id.action_loginFragment_to_signupFragment))
+        fragment_login_btn_login.setOnClickListener {
+            it.shuffleAnimate()
+        }
     }
 }
