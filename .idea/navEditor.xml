@@ -17,6 +17,15 @@
                             <option name="y" value="-124" />
                           </Point>
                         </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="action_loginFragment_to_signupFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
                       </LayoutPositions>
                     </value>
                   </entry>
@@ -31,12 +40,12 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_mainFragment_to_loginFragment">
+                            <entry key="action_mainFragment_to_LoginFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
                             </entry>
-                            <entry key="action_mainFragment_to_signupFragment">
+                            <entry key="action_mainFragment_to_SignupFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
@@ -51,8 +60,8 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="307" />
-                            <option name="y" value="278" />
+                            <option name="x" value="419" />
+                            <option name="y" value="251" />
                           </Point>
                         </option>
                       </LayoutPositions>
